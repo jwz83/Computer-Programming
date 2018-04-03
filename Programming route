@@ -1,2 +1,34 @@
 freecodecamp
 intermediate javascript
+
+030412018: learning to research!!
+object oriented javascript & udacity (27 hour)
+
+
+
+copies:
+I came across this thread while working on the random quote machine. I found this free quote API source: https://quotesondesign.com/api-v4-0/
+You will want to use the $.ajax call and set cache to false instead of $.getJSON. If you don't set cache to false, you won't get a new quote when you click your button.
+
+https://crossorigin.me/
+
+https://github.com/natetyler/wikiquotes-api/blob/master/wikiquote-api.js
+
+https://www.mediawiki.org/wiki/API:Main_page
+
+codepen.io
+
+
+https://quotesondesign.com/api-v4-0/
+https://forismatic.com/en/api/ ||https://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=jsonp&jsonp=?
+
+https://developer.wordpress.org/rest-api/
+
+https://css-tricks.com/using-the-wp-api-to-fetch-posts/
+
+
+http://jquery.com/
+
+
+
+https://classroom.udacity.com
